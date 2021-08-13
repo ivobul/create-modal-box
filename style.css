@@ -11,6 +11,8 @@ body {
 
 .open-modal {
   cursor: pointer;
+  margin-top: 15px;
+  margin-left: 15px;
   padding: 4px 10px;
 }
 
